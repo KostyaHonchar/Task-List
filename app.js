@@ -82,7 +82,6 @@ function removeTask(e) {
     }
   }
 }
-
 // Remove from LS
 function removeTaskFromLocalStorage(taskItem) {
   let tasks;
